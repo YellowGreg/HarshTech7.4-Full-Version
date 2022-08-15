@@ -1,5 +1,5 @@
-# HarshTech7.4-Full-Version
-Made by: AdvancedFalling Team
+# Important Note From AF Team
+AdvancedFalling Team
 
 This Could Be the Last Update For HarshTech7.4, Because I want to work
 On other projects like Fe Scripts, Different Gui Games and other stuff 
