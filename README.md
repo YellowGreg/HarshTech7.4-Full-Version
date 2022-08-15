@@ -7,5 +7,5 @@ That we would like to script, but we won't quit HarshTech we would Just take
 A break from it and that's all, but we Will try to update it but thats all 
 from AdvancedFalling Team
 
-PS: From Mmsvon: Reason why we took a break we are really Stress 
-from scripting HarshTech7.4 thats why we are Taking a break 💜
+PS: From Mmsvon: Reason why we took a break from HarshTech was that 
+we are really Stress from scripting HarshTech7.4 thats why we are Taking a break 💜
